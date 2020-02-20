@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="sparcdownsample",
-    version="0.1.0",
+    version="0.1.1",
     author="Jesse Khorasanee",
     author_email="jessekhorasanee@gmail.com",
     description="Downsample timeseries data for web rendering",
